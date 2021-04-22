@@ -1,0 +1,8 @@
+# ModelSim
+work
+modelsim.ini
+transcript
+vsim.wlf
+
+# iverilog
+*.out
